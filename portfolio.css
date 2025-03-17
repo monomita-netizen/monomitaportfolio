@@ -1,0 +1,12 @@
+article{
+    width: 700px;
+    margin: auto;
+}
+
+
+body p{
+    width: 20px;
+    padding: 10px;
+    margin: auto;
+    align-items: center;
+}
